@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+requests
+fastapi-utils
+pandasai==2.2.1
+numpy==1.25.2
+pyyaml
+matplotlib
+seaborn
+apscheduler
+mysql-connector-python
+prophet==1.1.5
