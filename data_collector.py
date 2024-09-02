@@ -3,7 +3,7 @@ from decimal import Decimal
 import pandas as pd
 from prophet import Prophet
 import math
-# Define the connection parameters
+#Define the connection parameters
 host = "159.138.104.192"
 user = "storemate_ml"
 password = "bTgZd77VpD^o4Ai6Dw9xs9"
